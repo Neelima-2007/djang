@@ -28,6 +28,11 @@ export const datajson = [
         "name": "Siva",
         "phone": 6798543628,
         "email": "siva@gmail.com"
+    },
+    {
+        "name": "Hari",
+        "phone": 9158423663,
+        "email": "hari@gmail.com"
     }
     // {
     //     "id": 1,
